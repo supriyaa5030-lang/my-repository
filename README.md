@@ -1,2 +1,3 @@
-# my-repository
-A new repository to push code
+My Git Project
+This repository is created for project
+Management with Git.
